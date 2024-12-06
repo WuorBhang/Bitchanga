@@ -1,0 +1,20 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:29:34.282Z"}
+{"level":"info","message":"Client connected","socketId":"ry6SBXXhCsX3hJk4AAAB","timestamp":"2024-12-06T10:29:34.341Z"}
+{"level":"info","message":"Client disconnected","socketId":"ry6SBXXhCsX3hJk4AAAB","timestamp":"2024-12-06T10:32:15.503Z"}
+{"level":"info","message":"Client connected","socketId":"0VLq3Abpti1Nues6AAAD","timestamp":"2024-12-06T10:32:17.795Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:32:24.982Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:32:24.984Z"}
+{"level":"error","message":"Error paying invoice","timestamp":"2024-12-06T10:33:33.785Z"}
+{"level":"error","message":"Send payment error","timestamp":"2024-12-06T10:33:33.786Z"}
+{"level":"info","message":"Client disconnected","socketId":"0VLq3Abpti1Nues6AAAD","timestamp":"2024-12-06T10:34:44.493Z"}
+{"level":"info","message":"Client connected","socketId":"Ps-_qaiBdhXIhCrXAAAF","timestamp":"2024-12-06T10:34:46.287Z"}
+{"level":"info","message":"Client disconnected","socketId":"Ps-_qaiBdhXIhCrXAAAF","timestamp":"2024-12-06T10:36:28.770Z"}
+{"level":"info","message":"Client connected","socketId":"onlc8GszCecSe1GFAAAH","timestamp":"2024-12-06T10:36:30.812Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:36:40.647Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:36:40.648Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:37:12.356Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:37:12.357Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:37:16.552Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:37:16.553Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:37:21.915Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:37:21.915Z"}
