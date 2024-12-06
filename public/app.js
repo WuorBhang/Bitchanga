@@ -119,15 +119,9 @@ function displayInvoice(invoice, receiverName) {
     const paymentRequestElement = document.getElementById('paymentRequest');
     const receiverInfoElement = document.getElementById('receiverInfo');
 
-    qrcodeElement.innerHTML = '';
-    QRCode.toCanvas(qrcodeElement, invoice.request, { 
-        width: 256,
-        margin: 2,
-        color: {
-            dark: '#000000',
-            light: '#ffffff'
-        }
-    });
+    // Display QR code using the data URL from the server
+    qrcodeElement.innerHTML = `<img src="${invoice.qrCode}" alt="QR Code" style="max-width: 100%; height: auto;">`;
+    
     paymentRequestElement.textContent = invoice.request;
     receiverInfoElement.textContent = `Payment to: ${receiverName}`;
     invoiceDetails.style.display = 'block';

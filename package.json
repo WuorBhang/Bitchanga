@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nodemon server/index.js",
-    "start": "node server/index.js",
+    "dev": "nodemon server/server.js",
+    "start": "node server/server.js",
     "build": "next build",
     "lint": "next lint"
   },

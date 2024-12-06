@@ -18,3 +18,29 @@
 {"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:37:16.553Z"}
 {"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:37:21.915Z"}
 {"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:37:21.915Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:46:28.115Z"}
+{"level":"info","message":"Client connected","socketId":"9wdmJB6YWmI1A_pCAAAB","timestamp":"2024-12-06T10:46:28.356Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:46:50.271Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:46:50.272Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:48:10.599Z"}
+{"level":"info","message":"Client connected","socketId":"0EZ76UMUpzRu3b3FAAAB","timestamp":"2024-12-06T10:48:10.815Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:48:21.106Z"}
+{"level":"info","message":"Client connected","socketId":"sVI7Y63UihShK7wYAAAB","timestamp":"2024-12-06T10:48:21.317Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:49:50.433Z"}
+{"level":"info","message":"Client connected","socketId":"Ig_U-telpCldWs-sAAAB","timestamp":"2024-12-06T10:49:50.495Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:49:56.027Z"}
+{"level":"info","message":"Client connected","socketId":"B9AO5tOKgQWGWUmyAAAB","timestamp":"2024-12-06T10:49:58.311Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:50:09.620Z"}
+{"level":"info","message":"Client connected","socketId":"9ZT2NcugYse1H0HpAAAB","timestamp":"2024-12-06T10:50:09.836Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T10:50:24.132Z"}
+{"level":"info","message":"Client connected","socketId":"LwAlyBRfBnHYuiSLAAAB","timestamp":"2024-12-06T10:50:24.325Z"}
+{"level":"info","message":"Client disconnected","socketId":"LwAlyBRfBnHYuiSLAAAB","timestamp":"2024-12-06T10:50:28.317Z"}
+{"level":"info","message":"Client connected","socketId":"wtrXo2ODXYpSL3CuAAAD","timestamp":"2024-12-06T10:50:29.062Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:50:35.159Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:50:35.160Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T10:52:40.419Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T10:52:40.420Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-06T11:03:31.239Z"}
+{"level":"info","message":"Client connected","socketId":"DnwhFhGoJO0l-45uAAAB","timestamp":"2024-12-06T11:03:47.948Z"}
+{"level":"error","message":"Error creating invoice","timestamp":"2024-12-06T11:03:54.360Z"}
+{"level":"error","message":"Create invoice error","timestamp":"2024-12-06T11:03:54.361Z"}
