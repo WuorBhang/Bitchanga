@@ -1,5 +1,5 @@
 # Bitchanga
-
+Implements detailed analytics that provide insights into spending patterns. Through this, users can gain a better understanding of their financial habits and make informed decisions based on visual representation and comprehensive reports.
 
 # LND Invoice Creation Service
 
